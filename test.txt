@@ -1,0 +1,2 @@
+This is an example .txt file for you to test out this word replace source code
+I hope you find this program fun and helpful
